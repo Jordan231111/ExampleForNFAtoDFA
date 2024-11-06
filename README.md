@@ -1,7 +1,5 @@
 # ExampleForNFAtoDFA
 
-Certainly! Let's work through this problem step by step to ensure we convert the given NFA into an equivalent DFA correctly. We'll start by analyzing the NFA, constructing the DFA using the subset construction method, and then compare our results with the DFA provided in your Python code. Finally, we'll point out any discrepancies and provide the corrected DFA.
-
 ---
 
 ### **1. Understanding the Given NFA**
